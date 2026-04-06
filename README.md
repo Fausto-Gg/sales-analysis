@@ -116,3 +116,5 @@ By leveraging data, the company can:
 - Optimize pricing and discount strategies
 - Reduce losses from unprofitable sales
 - Focus on high-performing products and regions
+
+![Dashboard](images/dashboard.png)
