@@ -135,9 +135,9 @@ By leveraging data, the company can:
 ---
 
 ## 🛠️ Tools & Technologies
-SQL (PostgreSQL): Data modeling and analysis
-Python (Pandas): Data cleaning and preprocessing
-Power BI: Data visualization and dashboard creation
+* **SQL (PostgreSQL):** Data modeling and analysis
+* **Python (Pandas):** Data cleaning and preprocessing
+* **Power BI:** Data visualization and dashboard creation
 
 ---
 
